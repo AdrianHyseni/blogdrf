@@ -1,0 +1,6 @@
+django
+coverage
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+pip install django-shortcuts
